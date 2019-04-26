@@ -1,0 +1,12 @@
+.container {
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-rows: repeat(2, 100px);
+}
+
+/* responsive grid */
+
+https://webdesign.tutsplus.com/series/learn-css-the-complete-guide--cms-1065?ec_promo=teaser_post_long
+
+https://scrimba.com/p/pWqLHa/czvLgUD
